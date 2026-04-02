@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-03-29)
+## Unreleased (2026-04-02)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`005bc76`](https://github.com/stdlib-js/stdlib/commit/005bc7603d9898b0fd9a9d3f13e0666645711af5) - **bench:** fix benchmark name _(by Athan Reines)_
 -   [`ddb70d6`](https://github.com/stdlib-js/stdlib/commit/ddb70d636f1fa0223cfdbb90d2a3acbbbe631488) - **feat:** add `blas/ext/base/dindex-of-row` [(#11162)](https://github.com/stdlib-js/stdlib/pull/11162) _(by Muhammad Haris, Athan Reines)_
 
 </details>
